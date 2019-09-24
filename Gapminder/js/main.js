@@ -142,4 +142,3 @@ function update(data) {
 
   timeLabel.text(+(time + 1800));
 };
-
