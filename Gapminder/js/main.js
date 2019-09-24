@@ -1,9 +1,3 @@
-/*
-*    main.js
-*    Mastering Data Visualization with D3.js
-*    Project 2 - Gapminder Clone
-*/
-
 const margin = { left:80, right: 20, top:50, bottom:100 };
 
 const width = 900 - margin.left - margin.right;

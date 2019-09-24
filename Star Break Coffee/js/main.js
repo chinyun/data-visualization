@@ -1,9 +1,3 @@
-/*
-*    main.js
-*    Mastering Data Visualization with D3.js
-*    Project 1 - Star Break Coffee
-*/
-
 var margin = { left:100, right: 10, top:10, bottom:150};
 
 var width = 700 - margin.left - margin.right;
